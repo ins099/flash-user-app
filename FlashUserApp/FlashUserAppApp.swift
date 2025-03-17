@@ -8,10 +8,11 @@
 import SwiftUI
 
 @main
+
 struct FlashUserAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Welcome()
         }
     }
 }
